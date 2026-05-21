@@ -289,9 +289,6 @@ Developed as a portfolio project to demonstrate practical expertise in:
 
 # Demo
 
-* SQL
-<img width="245" height="108" alt="tumor_response" src="https://github.com/user-attachments/assets/573343af-c239-4a71-a016-819a58cc541b" />
-
 * Power_BI
 <img width="637" height="359" alt="BI" src="https://github.com/user-attachments/assets/59f87854-aa29-4956-9b7e-e0d7eedb2c21" />
 
